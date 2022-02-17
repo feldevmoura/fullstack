@@ -1,0 +1,1 @@
+let curso = "FullStack"

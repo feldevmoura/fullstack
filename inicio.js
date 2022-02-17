@@ -1,5 +1,5 @@
 console.log("Hello World!")
 
-let numeroDaSorte = 42
+let numeroDaSorte = 44
 
 console.log(numeroDaSorte)
